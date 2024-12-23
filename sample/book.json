@@ -1,0 +1,22 @@
+{
+  "book_name": "Hello, JSON World!",
+  "author": "Json McSample",
+  "published_year": 2024,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Hello, World",
+      "content": "In the beginning, there was a program. It printed 'Hello, World!' and thus began the journey of countless developers around the globe."
+    },
+    {
+      "chapter_number": 2,
+      "title": "The First Bug",
+      "content": "After mastering 'Hello, World!', a new developer ventured into more complex code. But alas, their program encountered a bug. Debugging became their new superpower."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Hello, JSON",
+      "content": "Years later, the same developer discovered JSON. It was simple, elegant, and universal. They whispered to their code editor, 'Hello, JSON!' and the data responded beautifully."
+    }
+  ]
+}
